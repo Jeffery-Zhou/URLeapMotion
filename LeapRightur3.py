@@ -288,7 +288,7 @@ class SampleListener(Leap.Listener):
                     if self.rightrob.is_program_running():
                         pass
                     else:
-                        UR3.moveLeftPose(self.rightrob, right_pos_displace, final_angle)
+                        # UR3.moveLeftPose(self.rightrob, right_pos_displace, final_angle)
                         printer.okg("Left UR starts to run!")
                 
 

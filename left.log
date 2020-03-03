@@ -1,0 +1,19 @@
+[95m2020-03-03 21:18:25 ==================== Left UR3 connected. ====================[0m
+[95m2020-03-03 21:18:25 ==================== Left UR3 finished initial setting. ====================[0m
+[92m2020-03-03 21:18:25 Left UR starts to run![0m
+Left UR: the current pose is : <Vector: (-0.45787, -0.09150, 0.17427)>
+Left UR: the target pose is <Vector: (-0.45787, -0.09150, 0.11427)> with a displacement [0.0, 0.0, -0.12]
+Left UR: the changed pose is : [-0.45789337573196126, -0.0915005482768588, 0.11432310191777788, 0.3875814200838729, -1.635791054009495, -0.5175877501353051]
+[92m2020-03-03 21:18:28 Left UR: ************** Left UR Moved Successfully! ***************[0m
+Left UR: the current pose is : <Vector: (-0.45788, -0.09146, 0.11425)>
+Left UR: the target pose is <Vector: (-0.45788, -0.09146, 0.08425)> with a displacement [0.0, 0.0, -0.06]
+Left UR: the changed pose is : [-0.457883689151153, -0.0914289713958996, 0.08426056587863315, 2.058159105137603, -0.6168324601595789, -1.9417791837787497]
+[92m2020-03-03 21:18:46 Left UR: ************** Left UR Moved Successfully! ***************[0m
+Left UR: the current pose is : <Vector: (-0.45788, -0.09143, 0.08426)>
+Left UR: the target pose is <Vector: (-0.45788, -0.09143, 0.11426)> with a displacement [0.0, 0.0, 0.06]
+Left UR: the changed pose is : [-0.4578708359097504, -0.09143727640722163, 0.11420453425772684, 0.38737192722755237, -1.6360291511050224, -0.5175928779107655]
+[92m2020-03-03 21:18:52 Left UR: ************** Left UR Moved Successfully! ***************[0m
+Left UR: the current pose is : <Vector: (-0.45787, -0.09144, 0.11420)>
+Left UR: the target pose is <Vector: (-0.29787, 0.01523, -0.06580)> with a displacement [0.48, 0.16, -0.36]
+Left UR: the changed pose is : [-0.2978862693230183, 0.015316399685689897, -0.06578981974058366, -0.6176090995850746, -1.5531701154260702, 0.4081268129323806]
+[92m2020-03-03 21:18:56 Left UR: ************** Left UR Moved Successfully! ***************[0m
